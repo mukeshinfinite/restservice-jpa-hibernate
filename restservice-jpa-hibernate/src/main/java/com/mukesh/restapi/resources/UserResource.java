@@ -1,7 +1,6 @@
 package com.mukesh.restapi.resources;
 
 import java.util.List;
-import java.util.function.Predicate;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;
